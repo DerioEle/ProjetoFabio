@@ -1,0 +1,1 @@
+Não será necessário baixar bibliotecas externas para fazer o código funcionar
